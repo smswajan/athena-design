@@ -12,7 +12,6 @@ import OurAchievements from './Components/OurAchievements/OurAchievements';
 function App() {
   return (
     <>
-      <Header />
       <main>
         <SectionHero />
         <WhatWeDo />

@@ -10,8 +10,7 @@ const Subscribe = () => {
             </p>
             <div className="row mb-5 my-5">
                 <div className="col-md-6 offset-md-3 sub-wrapper">
-
-                    <input placeholder="Enter your email address " type="text" className="py-4 form-control custom-input" />
+                    <input placeholder="Enter your email address " type="text" className="py-4 form-control custom-input " />
                     <button className="btn btn-info btn-subscribe">Get Started</button>
                 </div>
             </div>
