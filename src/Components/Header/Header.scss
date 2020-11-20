@@ -4,3 +4,9 @@
 .navbar-toggler-icon {
     background-image: url("./menu.svg");
 }
+a.nav-link {
+    color: #0d052e;
+}
+a.nav-link:hover {
+    font-weight: 500;
+}
