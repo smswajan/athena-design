@@ -1,0 +1,10 @@
+.what-we-do-card {
+    transition: all 0.3s ease-in-out;
+    border-radius: 58px 0 58px 0;
+}
+.what-we-do-card:hover {
+    border-radius: 58px 0 58px 0;
+    background-color: #fff;
+    box-shadow: 0px 0px 38px rgba(15, 175, 95, 0.432);
+    transform: translateY(-3px);
+}

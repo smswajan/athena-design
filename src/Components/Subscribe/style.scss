@@ -1,0 +1,20 @@
+.sub-wrapper {
+    position: relative;
+}
+.custom-input {
+    position: absolute;
+    border: none;
+}
+.btn-subscribe {
+    position: absolute;
+    right: 0px;
+    margin-top: 6px;
+    background-image: linear-gradient(to right, #1ad4bf 0%, #24b9e8 100%);
+    transition: all 0.3s ease-in-out;
+    border: none;
+    font-size: 14px;
+    padding: 8px 20px;
+}
+.btn-subscribe:hover {
+    background-image: linear-gradient(to left, #1ad4bf 0%, #24b9e8 100%);
+}
