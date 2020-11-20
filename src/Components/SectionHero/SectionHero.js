@@ -9,8 +9,9 @@ const SectionHero = () => {
             <Header />
             <div className="container py-5">
                 <div className="row py-5">
-                    <div className="col-md-6">
-                        <h1 className="h1 mb-5">Florence agency</h1>
+                    <div className="col-md-6 mb-5 mb-md-0">
+                        <h1 className="h1 mb-5 d-none d-md-block">Florence agency</h1>
+                        <h1 className="mb-5 d-block d-md-none">Florence agency</h1>
                         <p className="text-secondary mb-4">
                             Lorem Ipsum has been the industry's standard dummy text ever
                             since the 1500s, when an unknown printer took a galley of type and

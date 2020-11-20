@@ -12,6 +12,13 @@ const Header = () => {
                     <Navbar.Brand className="mr-auto" href="/">
                         <img src={BrandLogo} alt="" className="brand-logo" />
                     </Navbar.Brand>
+                    {/* <button aria-controls="agency-navbar" type="button" aria-label="Toggle navigation" class="navbar-toggler collapsed">
+                        <span class="navbar-toggler-icon"></span>
+                    </button> */}
+                    {/* <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#agency-navbar"
+                        aria-controls="agency-navbar" aria-expanded="false" aria-label="Toggle navigation">
+                        <img src="./toggler-icon.svg" alt="" />
+                    </button> */}
                     <Navbar.Toggle aria-controls="agency-navbar" />
                     <Navbar.Collapse id="agency-navbar">
                         <Nav className="ml-auto text-center d-flex align-items-center">

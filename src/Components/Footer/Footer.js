@@ -15,19 +15,19 @@ const Footer = () => {
                         </div>
                     </div>
                     <div className="col-md-8">
-                        <div className="row">
-                            <div className="col-6 text-center text-md-left col-md-4">
+                        <div className="row text-center text-md-left">
+                            <div className="col-md-4 mb-4 mb-md-0">
                                 <a href="#" className="footer-link">Features</a>
                                 <a href="#" className="footer-link">Enterprise</a>
                                 <a href="#" className="footer-link">Pricing</a>
                             </div>
-                            <div className="col-6 text-center text-md-left col-md-4 ">
+                            <div className="col-md-4 mb-4 mb-md-0">
                                 <a href="#" className="footer-link">Blog</a>
                                 <a href="#" className="footer-link">Help Center</a>
                                 <a href="#" className="footer-link">Contact Us</a>
                                 <a href="#" className="footer-link">Status</a>
                             </div>
-                            <div className="col-md-4 text-center text-md-left mt-3 mt-md-0">
+                            <div className="col-md-4 mb-4 mb-md-0">
                                 <a href="#" className="footer-link">About Us</a>
                                 <a href="#" className="footer-link">Terms & Conditions</a>
                                 <a href="#" className="footer-link">Security</a>
