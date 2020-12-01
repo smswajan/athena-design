@@ -9,7 +9,7 @@ const ChooseTeam = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-4">
-                            <div className="team-card text-center m-4 p-5">
+                            <div className="team-card text-center m-4 m-md-1 p-5 p-md-1">
                                 <span className="price-num">$199</span>
                                 <span className="desc text-secondary">For Basic</span>
                                 <hr />
@@ -20,11 +20,11 @@ const ChooseTeam = () => {
                                 <p>Free stock photos</p>
                                 <p>20 days free support</p>
                                 <p>24/7 support</p>
-                                <a href="#" className="btn btn-info btn-custom">Order Now</a>
+                                <a href="#" className="mb-4 btn btn-info btn-custom">Order Now</a>
                             </div>
                         </div>
                         <div className="col-md-4">
-                            <div className="team-card text-center m-4 p-5">
+                            <div className="team-card text-center m-4 m-md-1 p-5 p-md-1">
                                 <span className="price-num">$399</span>
                                 <span className="desc text-secondary">For Preferred</span>
                                 <hr />
@@ -35,11 +35,11 @@ const ChooseTeam = () => {
                                 <p>Free stock photos</p>
                                 <p>30 days free support</p>
                                 <p>24/7 support</p>
-                                <a href="#" className="btn btn-info btn-custom">Order Now</a>
+                                <a href="#" className="mb-4 btn btn-info btn-custom">Order Now</a>
                             </div>
                         </div>
                         <div className="col-md-4">
-                            <div className="team-card text-center m-4 p-5">
+                            <div className="team-card text-center m-4 m-md-1 p-5 p-md-1">
                                 <span className="price-num">$599</span>
                                 <span className="desc text-secondary">For Elite</span>
                                 <hr />
@@ -50,7 +50,7 @@ const ChooseTeam = () => {
                                 <p>Free stock photos</p>
                                 <p>10 days free support</p>
                                 <p>24/7 support</p>
-                                <a href="#" className="btn btn-info btn-custom">Order Now</a>
+                                <a href="#" className="mb-4 btn btn-info btn-custom">Order Now</a>
                             </div>
                         </div>
                     </div>
